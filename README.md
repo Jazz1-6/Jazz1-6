@@ -183,13 +183,13 @@ This is my long-term mission. The path to becoming an AI Security Analyst.
 
 <p align="center">
   <a href="https://x.com/Jaswanth_1611">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+    <img src="./assets/badge-x.svg" />
   </a>
   <a href="https://www.linkedin.com/in/jaswanth-kumar-mahanthi-9ab27037a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="./assets/badge-linkedin.svg" />
   </a>
   <a href="mailto:jaswanthkumarmahanthi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="./assets/badge-gmail.svg" />
   </a>
 </p>
 
