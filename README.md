@@ -50,12 +50,12 @@
 - **Top #1:** **ONE PIECE** 🏴‍☠️
 
 <p>
-  <img src="https://img.shields.io/badge/One_Piece-E67E22?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chainsaw_Man-8B0000?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Demon_Slayer-1A1A1A?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/JJK-4B0082?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/AOT-5C4033?style=for-the-badge&logo=crunchyroll&logoColor=white" />
-  <img src="https://img.shields.io/badge/Solo_Leveling-4B0082?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="./assets/badge-onepiece.svg" />
+  <img src="./assets/badge-chainsawman.svg" />
+  <img src="./assets/badge-demonslayer.svg" />
+  <img src="./assets/badge-jjk.svg" />
+  <img src="./assets/badge-aot.svg" />
+  <img src="./assets/badge-sololeveling.svg" />
 </p>
 
 </td>
@@ -63,20 +63,20 @@
 
 ### 🧰 Starting Inventory
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="./assets/badge-python.svg" />
+  <img src="./assets/badge-cpp.svg" />
+  <img src="./assets/badge-c.svg" />
+  <img src="./assets/badge-java.svg" />
+  <img src="./assets/badge-git.svg" />
+  <img src="./assets/badge-linux.svg" />
 </p>
 
 ### 🎮 Games That Shaped Me
 <p>
-  <img src="https://img.shields.io/badge/Sekiro-8B0000?style=for-the-badge&logo=fromsoftware&logoColor=white" />
-  <img src="https://img.shields.io/badge/Elden_Ring-C9A227?style=for-the-badge&logo=fromsoftware&logoColor=black" />
-  <img src="https://img.shields.io/badge/Hollow_Knight-1A1A1A?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clash_of_Clans-FFB300?style=for-the-badge&logo=supercell&logoColor=black" />
+  <img src="./assets/badge-sekiro.svg" />
+  <img src="./assets/badge-eldenring.svg" />
+  <img src="./assets/badge-hollowknight.svg" />
+  <img src="./assets/badge-coc.svg" />
 </p>
 
 - **COC:** Town Hall 14 `[██████████████]`
@@ -196,7 +196,7 @@ This is my long-term mission. The path to becoming an AI Security Analyst.
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=140&section=footer&text=As+long+as+I+live%2C+I+have+infinite+chances.&fontSize=22&fontColor=E6B422&animation=fadeIn" />
+  <img src="./assets/footer-wave.svg" />
 </p>
 
 <p align="center">
