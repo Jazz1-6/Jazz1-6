@@ -1,29 +1,31 @@
 <h1 align="center">
   ⚔️ JAZZ ⚔️
 </h1>
-<h3 align="center">Shinobi of Code · Knight of Hallownest · Tarnished Dev</h3>
+<h3 align="center">Shinobi of Code · Future AI Security Analyst · Nakama of the Grand Line</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&pause=1000&color=E6B422&center=true&vCenter=true&width=800&lines=Hesitation+is+defeat.;YOU+DIED.;Respawned.;YOU+DIED+AGAIN.;Respawned+again.;As+long+as+I+live%2C+I+have+infinite+chances." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=15&pause=1000&color=E6B422&center=true&vCenter=true&width=850&lines=Hesitation+is+defeat.;YOU+DIED.;Respawned.;YOU+DIED+AGAIN.;Respawned+again.;I%27m+gonna+be+King+of+the+Devs.;Securing+the+Digital+Realm.;As+long+as+I+live%2C+I+have+infinite+chances." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <i>"A shinobi would know the difference between honor and victory." — Genichiro</i>
+  <i>"I'm gonna be King of the Pirates." — Monkey D. Luffy</i>
 </p>
 
 ---
 
 ## 🕯️ Origin Story
 
-> I'm a gamer first. Coder second. Beginner third — but I've been a beginner before.
+> I'm a gamer first. Anime fan always. Coder in progress.
 >
-> I've beaten **Promised Consort Radahn** in Elden Ring. I've walked the ash of Sekiro. I've descended into Hallownest alone. I've grinded **Clash of Clans** to Town Hall 14, one upgrade at a time, for years. Every one of those taught me the same lesson:
+> I've beaten **Promised Consort Radahn**. I walked through Sekiro as a shinobi. I descended into Hallownest alone. I grinded **Clash of Clans** to Town Hall 14 for years. And I've watched **140+ anime** — from One Piece to Monster, from Chainsaw Man to Frieren.
 >
-> **Death is not the end. Death is data.**
+> Every single one of those taught me the same thing:
 >
-> Now I'm learning Python. C++. Java. I'm at the very start of DSA — **Level 1, first bonfire**. But I've fought harder bosses than Arrays. I've beaten Malenia's cousin. I've stared down Absolute Radiance in my practice runs.
+> **As long as I live, I have infinite chances.**
 >
-> This GitHub is my save file. Every commit is a respawn. I'm not here to flex. I'm here to **git gud**.
+> But I'm not just coding for the sake of it. I'm building an arsenal to become an **AI Security Analyst** — a shinobi of the digital realm. I want to protect systems, hunt vulnerabilities, and secure the future of AI.
+>
+> I'm at Level 1. First bonfire. But I've died a thousand times before — to bosses, to Pantheons, to arena raids — and I'm still here. This GitHub is my save file. Every commit is a respawn. Every repo is a new arc. **I'm not here to flex. I'm here to grind.**
 
 ---
 
@@ -31,19 +33,45 @@
 <tr>
 <td width="50%" valign="top">
 
-## 🧬 Character Sheet
-━━━━━━━━━━━━━━━━━━━━━━━━━
-NAME : Jazz (Jaswanth)
-TITLE : The Tarnished Shinobi
-CLASS : Beginner Dev
-LEVEL : 1
-SOULS : 0 (grinding)
-RESPAWNS : ∞ (Luffy rule)
-REGION : India
-STATUS : 🔥 Ember Lit
-━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🧬 Character Sheet
+- **Name:** Jazz (Jaswanth)
+- **Title:** Tarnished Shinobi
+- **Class:** Future AI Security Analyst
+- **Level:** 1
+- **Respawns:** ∞ (Luffy rule)
+- **Anime:** 140+ watched
+- **Region:** India
+- **Status:** 🔥 Ember Lit
 
-## 🎮 Games That Shaped Me
+### 🏴‍☠️ The Grand Line (Anime)
+- **Anime Watched:** 140+
+- **One Piece Status:** ✅ Caught up (Apr 2026)
+- **Current Vibe:** Solo Leveling · Frieren · Dandadan
+- **Top #1:** **ONE PIECE** 🏴‍☠️
+
+<p>
+  <img src="https://img.shields.io/badge/One_Piece-E67E22?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chainsaw_Man-8B0000?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Demon_Slayer-1A1A1A?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/JJK-4B0082?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/AOT-5C4033?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solo_Leveling-4B0082?style=for-the-badge&logo=crunchyroll&logoColor=white" />
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 🧰 Starting Inventory
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+### 🎮 Games That Shaped Me
 <p>
   <img src="https://img.shields.io/badge/Sekiro-8B0000?style=for-the-badge&logo=fromsoftware&logoColor=white" />
   <img src="https://img.shields.io/badge/Elden_Ring-C9A227?style=for-the-badge&logo=fromsoftware&logoColor=black" />
@@ -51,24 +79,12 @@ STATUS : 🔥 Ember Lit
   <img src="https://img.shields.io/badge/Clash_of_Clans-FFB300?style=for-the-badge&logo=supercell&logoColor=black" />
 </p>
 
-**Current COC Progress**
-Town Hall 14 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰
+- **COC:** Town Hall 14 `[██████████████]`
 
-</td>
-<td width="50%" valign="top">
-
-## 🧰 Starting Inventory
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
-
-## 📊 Trophies
+### 📊 Trophies
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jaswanth-1611&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jaswanth-1611&theme=tokyonight&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jazz1-6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jazz1-6&theme=tokyonight&hide_border=true" height="150" />
 </p>
 
 </td>
@@ -77,21 +93,45 @@ Town Hall 14 ▰▰▰▰▰▰▰▰▰▰▰▰▰▰
 
 ---
 
-## 🗡️ Skill Tree
-PYTHON ▰▰▰▰▰▱▱▱▱▱ [ ██████░░░░ ] 50%
-C++ ▰▰▰▰▱▱▱▱▱▱ [ █████░░░░░ ] 40%
-JAVA ▰▰▰▱▱▱▱▱▱▱ [ ████░░░░░░ ] 30%
-LOGIC ▰▰▰▰▰▱▱▱▱▱ [ ██████░░░░ ] 50%
-DSA ▱▱▱▱▱▱▱▱▱▱ [ ░░░░░░░░░░ ] 0%
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-"The first boss is always the hardest."
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+### 🗡️ Skill Tree
 
-**Main Weapon:** 🐍 Python &nbsp;|&nbsp; **Side Arm:** ⚙️ C++ &nbsp;|&nbsp; **Reserve:** ☕ Java
+| Skill | Progress | Mastery |
+| :--- | :--- | :--- |
+| **Python** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 50% |
+| **C++** | 🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜ | 40% |
+| **C** | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | 30% |
+| **Java** | 🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜ | 30% |
+| **Logic** | 🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜ | 50% |
+| **DSA** | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0% |
+| **AI Security** | ⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜ | 0% |
+
+**Main Weapons:**
+- 🐍 **Python** — the fast blade (will be my primary tool for AI/security scripting)
+- ⚙️ **C++** — the heavy blade
+- 🔩 **C** — the raw iron
+- ☕ **Java** — the structured discipline
+- 🐧 **Linux** — the battlefield (the OS I'm learning to master)
 
 ---
 
-## 🏰 DSA BOSS RUSH — Save File
+### 📜 The Code I Live By
+
+> Not rules I read. Rules I **follow**.
+
+- **Zoro:** "Accept you're not the best. Then strive to beat everyone you face."
+- **Doflamingo:** "Whoever wins the war becomes justice."
+- **Asta:** "My magic is never giving up."
+- **Saitama:** "Your limit? Who decides what your limit is?"
+- **Kuwajima:** "Don't ever give up. Believe in yourself."
+- **Vegeta:** "You'll be the best, or you'll be nothing."
+- **Unknown:** "Without suffering, there's no victory."
+- **Uncle Ben:** "With great power comes great responsibility." *(The core rule of security)*
+
+> Every time I get stuck, I read this list. Every time I fail, I read it again.
+
+---
+
+### 🏰 DSA BOSS RUSH — Save File
 
 | # | Boss | Deaths | Status |
 |:-:|:---|:-:|:-:|
@@ -108,36 +148,38 @@ DSA ▱▱▱▱▱▱▱▱▱▱ [ ░░░░░░░░░░ ] 0%
 | 11 | **Sorting** — *Pure Vessel* | 0 | 🔒 Locked |
 | 12 | **Dynamic Programming** — *Absolute Radiance* | 0 | 💀 FINAL BOSS |
 
-> I've beaten Radahn. I've stared down Isshin. Absolute Radiance is next.  
-> DP is just another boss. And I don't quit bosses.
+> **Why DSA?** Because security is built on logic. To hunt vulnerabilities, I must first master the fundamentals. **DP is just another boss. And I don't quit bosses.**
 
 ---
 
-## 🏆 Bosses Defeated (Proof of Grind)
-✅ Promised Consort Radahn (Elden Ring: Shadow of the Erdtree)
-✅ Isshin, the Sword Saint (Sekiro)
-✅ Malenia, Blade of Miquella (Elden Ring)
-✅ Owl (Father) (Sekiro)
-✅ Radiance (Hollow Knight)
-✅ Town Hall 14 (Clash of Clans, F2P-ish)
+### 🚀 The Endgame — AI Security Arc
 
-🎯 Absolute Radiance (Currently hunting)
-🎯 DSA Final Boss: DP (Eventually)
+> *"The true fight begins after the training."*
+
+This is my long-term mission. The path to becoming an AI Security Analyst.
+
+- 🧠 **Phase 1: Foundations** — Master DSA, Python, and Linux basics.
+- 🛡️ **Phase 2: Security Fundamentals** — Learn networking, cryptography, and OWASP Top 10.
+- 🤖 **Phase 3: AI/ML Basics** — Understand how models train, how they think, how they break.
+- ⚔️ **Phase 4: AI Security** — Adversarial ML, prompt injection, model poisoning, AI red-teaming.
+- 🏆 **Final Boss:** Land a role as an **AI Security Analyst**.
 
 ---
 
-## 🏕️ Resting at the Bonfire — Current Grind
+### 🏕️ Resting at the Bonfire — Current Grind
 
-- 🌱 **Learning Python deeply** — my main weapon, sharpening it daily
-- ⚙️ **C++ as secondary** — for when I want speed and control
-- 🧠 **Building logic before DSA** — I'm not walking into Malenia at RL1
-- 🎮 Grinding **Absolute Radiance** in Hollow Knight (Pantheon of Hallownest, send help)
+- 🔩 **Learning C** — understanding memory, pointers, the raw iron
+- 🐍 **Sharpening Python** — my main weapon
+- ⚙️ **Grinding C++** — for speed
+- ☕ **Learning Java** — structure and OOP
+- 🐧 **Exploring Linux** — because security lives in the terminal
+- 🧠 **Building logic before DSA** — no running into Malenia at RL1
+- 🎮 Hunting **Absolute Radiance** in Hollow Knight (Pantheon of Hallownest, send help)
 - 📓 **Committing every day** — small commits count. Small hits count.
-- 🍥 Watching anime to recharge — One Piece, and whatever's airing
 
 ---
 
-## 🧭 Summon Me
+### 🧭 Summon Me
 
 <p align="center">
   <a href="https://x.com/Jaswanth_1611">
@@ -158,6 +200,6 @@ DSA ▱▱▱▱▱▱▱▱▱▱ [ ░░░░░░░░░░ ] 0%
 </p>
 
 <p align="center">
-  <i>"Hesitation is defeat."</i><br/>
-  <b>— Jazz, The Tarnished Shinobi</b>
+  <i>"Hesitation is defeat." — Isshin</i> &nbsp;·&nbsp; <i>"I'm gonna be King of the Pirates." — Luffy</i><br/>
+  <b>— Jazz, The Tarnished Shinobi 🏴‍☠️</b>
 </p>
